@@ -1,0 +1,14 @@
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\bin\Release\Sales Taxes.exe.config
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\bin\Release\Sales Taxes.exe
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\bin\Release\Sales Taxes.pdb
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\MainWindow.g.cs
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\App.g.cs
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\Sales Taxes_MarkupCompile.cache
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\Sales Taxes_MarkupCompile.lref
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\MainWindow.baml
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\Sales Taxes.g.resources
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\Sales_Taxes.Properties.Resources.resources
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\Sales Taxes.csproj.GenerateResource.Cache
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\Sales Taxes.csproj.CoreCompileInputs.cache
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\Sales Taxes.exe
+C:\Users\keega\Documents\Visual Studio 2017\Projects\Sales Taxes\Sales Taxes\obj\Release\Sales Taxes.pdb
